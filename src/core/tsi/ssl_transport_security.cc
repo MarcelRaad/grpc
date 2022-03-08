@@ -37,6 +37,7 @@
 
 #include <openssl/bio.h>
 #include <openssl/crypto.h> /* For OPENSSL_free */
+#include <openssl/ec.h>
 #include <openssl/engine.h>
 #include <openssl/err.h>
 #include <openssl/ssl.h>
